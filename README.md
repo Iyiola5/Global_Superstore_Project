@@ -45,3 +45,36 @@ In the course of trying to clean the data using Excel, I realised it was already
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+Solutions to Questions using Visualizations
+![image](https://github.com/user-attachments/assets/e9b09fa2-1251-4141-aa42-c63a9ac9c11c)
+![image](https://github.com/user-attachments/assets/5c6c7e5c-4f55-4d2b-a1fc-677672ef8573)
+
+Comments:
+1A. In 2014, the 3 countries that generated the highest total profit for Global Superstore are:
+United States with $93,508
+India with $48,808
+China with $46,794
+1B. The 3 products with the highest total profit, the products’ names and the total profit for each product are:
+The 3 products in United States:
+Canon Image Class 2200 Advanced Copier 
+GBC Docubin
+Hewlett Packard LaserJet 3310 Copier
+The 3 products in India:
+Sauder Classic Bookcase, Traditional 
+Hewlett Wireless Fax, Color with 
+Hamilton Beach Refrigerator, Red
+The 3 products in China:
+Sauder Classic Bookcase, Metal
+Bush classic Bookcase Mobile
+HP Copy machine clor
+The 3 subcategories with the highest average shipping cost in the United States are:
+Copiers 
+Machines 
+Tables
+Nigeria made a loss in the year 2014, the factors responsible for this poor performance could be the shipping cost that was 6.18K which means Nigeria has the highest shipping cost among the African Countries and also the average discount of 0.70. the shipping cost is way too high as well as the average discount as compared to other countries and could be the factor for the loss in year 2024.
+he product subcategory that is the least profitable in Southeast Asia is Tables with a profit loss of -$20,163
+A country in Southeast Asia where Global Superstore should stop offering the subcategory Tables is Indonesia.
+The city with is the least profitable (in terms of average profit) in the United States is Lancaster City with an average of -$169
+The product subcategory with the highest average profit in Australia is Appliances with an average profit of $139
+
+Tool used for Visualization is PowerBI and confirmed using Excel(Pivot Table)
