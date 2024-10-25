@@ -39,3 +39,9 @@ Question 3.
  a) Which product subcategory has the highest average profit in Australia?
  Question 7.
  a)Who are the most valuable customers and what do they purchase?
+
+Data cleaning and importation into PowerBI workbench.
+In the course of trying to clean the data using Excel, I realised it was already a clean data when collected from the source. I checked for data duplicates and spelling errors and found nothing. I went ahead to standardize the Excel spreadsheet, seperate the Orders, Returns and People sheets and covert them into CSV formats for easy data importation into PowerBI where i transformed the data and then apply.
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
